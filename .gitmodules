@@ -1,0 +1,3 @@
+[submodule "liba"]
+	path = liba
+	url = git@github.com:bighb/liba.git
