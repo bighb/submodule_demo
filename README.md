@@ -38,7 +38,7 @@ git submodule update
 
 ##### 第二步
 
-讲当前子工程代码更新至最新
+当前子工程代码更新至最新
 
 `git submodule update --remote`
 
